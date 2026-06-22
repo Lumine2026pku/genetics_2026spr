@@ -2139,8 +2139,8 @@
         "衰减作用：trp操纵子通过trpL引导区中核糖体移动与mRNA二级结构形成，在色氨酸充足时提前终止转录。",
         "氨基酸成本-使用反相关：蛋白质组中氨基酸生物合成成本与使用频率呈显著负相关，反映代谢效率的选择压力。"
       ],
-      "summary_en": "",
-      "summary_cn": ""
+      "summary_en": "Prokaryotes, such as bacteria, lack membrane-bound organelles and have circular chromosomes. Genetic analysis in these organisms involves studying mutations through methods like selection and replica plating, and gene transfer occurs via transformation, conjugation, and transduction. Transformation requires competence, often induced by nutrient starvation, and cotransformation frequency can indicate gene linkage within about 20 kb. Conjugation involves direct cell contact via the F pilus, with the F plasmid transferred through rolling-circle replication.",
+      "summary_cn": "原核生物如细菌缺乏膜结合细胞器，拥有环状染色体。其遗传分析通过选择、富集和影印培养等方法检测突变，基因转移通过转化、接合和转导实现。转化需要感受态，常由营养饥饿诱导，共转化频率可指示基因连锁（约20 kb内）。接合通过F菌毛直接细胞接触，F质粒以滚环复制方式单链转移。"
     },
     {
       "id": 7,
